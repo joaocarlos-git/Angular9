@@ -12,8 +12,8 @@
     },
     {
       "id": 3,
-      "name": "Sansung S20+",
-      "price": 5000.89
+      "name": "Sansung S20+++",
+      "price": "7000.89"
     },
     {
       "name": "joaoc",
@@ -21,8 +21,8 @@
       "id": 4
     },
     {
-      "name": "lapis preto",
-      "price": "2.50",
+      "name": "lapis preto basico",
+      "price": "2.00",
       "id": 5
     }
   ]
