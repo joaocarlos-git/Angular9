@@ -2,8 +2,8 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta Bic preta",
-      "price": 5.89
+      "name": "Caneta Bic preta-",
+      "price": "5.8980"
     },
     {
       "id": 2,
@@ -16,14 +16,19 @@
       "price": "7000.89"
     },
     {
-      "name": "joaoc",
-      "price": "1800.44",
-      "id": 4
-    },
-    {
-      "name": "lapis preto basico",
+      "name": "lapis preto",
       "price": "2.00",
       "id": 5
+    },
+    {
+      "name": "Novo produfo",
+      "price": "5.991",
+      "id": 6
+    },
+    {
+      "name": "tudi",
+      "price": "555",
+      "id": 7
     }
   ]
 }
