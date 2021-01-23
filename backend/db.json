@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Caneta Bic preta-bic",
-      "price": "5.8"
+      "price": "5.86"
     },
     {
       "id": 2,
@@ -29,11 +29,6 @@
       "name": "tudo",
       "price": "555",
       "id": 7
-    },
-    {
-      "name": "pra excluir",
-      "price": "5,99",
-      "id": 8
     }
   ]
 }
