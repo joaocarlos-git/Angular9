@@ -1,4 +1,4 @@
-import { MatSortModule } from '@angular/material/sort';
+/*import { MatSortModule } from '@angular/material/sort';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatTableModule } from '@angular/material/table';
 import { ProductReadComponent } from './../../frontend/src/app/components/product/product-read/product-read.component';
@@ -46,7 +46,7 @@ registerLocaleData(localePt);
     ProductCreateComponent,
     ProductReadComponent,
   ],
-    
+
   imports: [
     BrowserModule,
     AppRoutingModule,
@@ -71,4 +71,4 @@ registerLocaleData(localePt);
   }],
   bootstrap: [AppComponent]
 })
-export class AppModule { }
+export class AppModule { }*/

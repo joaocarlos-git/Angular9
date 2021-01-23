@@ -1,6 +1,6 @@
-import { Component } from '@angular/core';
+/*import { Component } from '@angular/core';
 
-@Component({
+/*@Component({
   selector: 'app-root',
   template: `
     <!--The content below is only a placeholder and can be replaced.-->
@@ -29,4 +29,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'frontend';
-}
+}*/
